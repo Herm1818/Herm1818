@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Attempting evaluation of MacOS and iOS Please Help
 
 <!--
 **Herm1818/Herm1818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
